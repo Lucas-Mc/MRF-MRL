@@ -1,5 +1,8 @@
 # Instructions for downloading necessary packages
 
+Available at Medical Physics: [https://doi.org/10.1002/mp.70670](https://doi.org/10.1002/mp.70670)
+Also available as a pre-print on medRxiv: [https://doi.org/10.64898/2025.12.03.25341501](https://doi.org/10.64898/2025.12.03.25341501)
+
 Note, this code has been developed on MATLAB version R2023a. It is untested how this code will behave in other versions of MATLAB.
 
 1. Download [fiNUFFT](https://finufft.readthedocs.io/en/latest/matlab.html) and place the contents into `./finufft/matlab/` ... at minimum you need `finufft_plan.m` for reference
